@@ -1,0 +1,12 @@
+"rich_text.toolbar.bold" = "太字";
+"rich_text.toolbar.italic" = "斜体";
+"rich_text.toolbar.underline" = "下線";
+"rich_text.toolbar.strikethrough" = "取り消し線";
+"rich_text.toolbar.more" = "その他";
+"rich_text.toolbar.body" = "本文";
+"rich_text.toolbar.title" = "タイトル";
+"rich_text.toolbar.heading" = "見出し";
+"rich_text.toolbar.bulleted_list" = "箇条書き";
+"rich_text.toolbar.numbered_list" = "番号付きリスト";
+"rich_text.toolbar.clear_formatting" = "書式をクリア";
+"rich_text.toolbar.checklist" = "チェックリスト";

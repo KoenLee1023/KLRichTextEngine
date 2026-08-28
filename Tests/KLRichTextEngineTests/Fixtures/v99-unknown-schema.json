@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 99,
+  "blocks": [
+    {
+      "type": "futureBlock",
+      "payload": {
+        "opaque": [1, 2, 3],
+        "meaning": "must remain untouched"
+      }
+    }
+  ],
+  "futureMetadata": {
+    "preserve": true
+  }
+}

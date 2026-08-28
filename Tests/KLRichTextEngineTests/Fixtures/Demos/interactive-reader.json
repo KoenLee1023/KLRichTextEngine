@@ -1,0 +1,19 @@
+{
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "id": "82000000-0000-0000-0000-000000000001",
+        "text": { "plainText": "A selectable reading sample" }
+      }
+    },
+    {
+      "type": "checklist",
+      "checklist": {
+        "id": "82000000-0000-0000-0000-000000000002",
+        "isChecked": false,
+        "text": { "plainText": "Mark this synthetic task complete" }
+      }
+    }
+  ]
+}

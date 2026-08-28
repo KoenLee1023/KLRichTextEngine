@@ -1,0 +1,12 @@
+"rich_text.toolbar.bold" = "粗體";
+"rich_text.toolbar.italic" = "斜體";
+"rich_text.toolbar.underline" = "底線";
+"rich_text.toolbar.strikethrough" = "刪除線";
+"rich_text.toolbar.more" = "更多";
+"rich_text.toolbar.body" = "內文";
+"rich_text.toolbar.title" = "標題";
+"rich_text.toolbar.heading" = "標題";
+"rich_text.toolbar.bulleted_list" = "項目符號列表";
+"rich_text.toolbar.numbered_list" = "編號列表";
+"rich_text.toolbar.clear_formatting" = "清除格式";
+"rich_text.toolbar.checklist" = "檢查清單";

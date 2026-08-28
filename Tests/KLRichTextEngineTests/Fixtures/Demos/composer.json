@@ -1,0 +1,11 @@
+{
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "id": "81000000-0000-0000-0000-000000000001",
+        "text": { "plainText": "Compose a synthetic document" }
+      }
+    }
+  ]
+}

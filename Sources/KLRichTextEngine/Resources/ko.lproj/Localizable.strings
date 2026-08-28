@@ -1,0 +1,12 @@
+"rich_text.toolbar.bold" = "굵게";
+"rich_text.toolbar.italic" = "기울임꼴";
+"rich_text.toolbar.underline" = "밑줄";
+"rich_text.toolbar.strikethrough" = "취소선";
+"rich_text.toolbar.more" = "더 보기";
+"rich_text.toolbar.body" = "본문";
+"rich_text.toolbar.title" = "제목";
+"rich_text.toolbar.heading" = "제목";
+"rich_text.toolbar.bulleted_list" = "글머리 기호 목록";
+"rich_text.toolbar.numbered_list" = "번호 매기기 목록";
+"rich_text.toolbar.clear_formatting" = "서식 지우기";
+"rich_text.toolbar.checklist" = "체크리스트";

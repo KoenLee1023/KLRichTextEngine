@@ -1,0 +1,17 @@
+{
+  "blocks": [
+    {
+      "type": "checklist",
+      "checklist": {
+        "id": "20000000-0000-0000-0000-000000000001",
+        "isChecked": true,
+        "text": {
+          "plainText": "Inspect the synthetic fixture",
+          "rtfData": "e1xydGYxXGFuc2lcZGVmZjB7XGZvbnR0Ymx7XGYwIEhlbHZldGljYTt9fVxmMFxmczI0IFxzdHJpa2UgSW5zcGVjdFxzdHJpa2UwICB0aGUgc3ludGhldGljIGZpeHR1cmV9",
+          "fallbackMarkdown": "~~Inspect~~ the synthetic fixture",
+          "fontStorageMode": "dynamicBodyV1"
+        }
+      }
+    }
+  ]
+}

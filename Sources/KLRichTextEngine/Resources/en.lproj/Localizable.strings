@@ -1,0 +1,12 @@
+"rich_text.toolbar.bold" = "Bold";
+"rich_text.toolbar.italic" = "Italic";
+"rich_text.toolbar.underline" = "Underline";
+"rich_text.toolbar.strikethrough" = "Strikethrough";
+"rich_text.toolbar.more" = "More";
+"rich_text.toolbar.body" = "Body";
+"rich_text.toolbar.title" = "Title";
+"rich_text.toolbar.heading" = "Heading";
+"rich_text.toolbar.bulleted_list" = "Bulleted List";
+"rich_text.toolbar.numbered_list" = "Numbered List";
+"rich_text.toolbar.clear_formatting" = "Clear Formatting";
+"rich_text.toolbar.checklist" = "Checklist";

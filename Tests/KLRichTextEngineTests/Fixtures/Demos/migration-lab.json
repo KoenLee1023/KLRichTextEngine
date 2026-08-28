@@ -1,0 +1,14 @@
+{
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "id": "83000000-0000-0000-0000-000000000001",
+        "text": {
+          "plainText": "Synthetic v0 content",
+          "fallbackMarkdown": "**Synthetic** v0 content"
+        }
+      }
+    }
+  ]
+}
