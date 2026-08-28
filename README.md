@@ -1,5 +1,7 @@
 # KLRichTextEngine
 
+> Languages: [English](README.md) · [简体中文](Documentation/zh-Hans/README.md) · [繁體中文](Documentation/zh-Hant/README.md) · [日本語](Documentation/ja/README.md) · [한국어](Documentation/ko/README.md)
+
 `KLRichTextEngine` stores and edits rich text without reducing the document to a plain string. It provides a Codable document model, attributed-string conversion, checklist mutations, font intent storage, paste normalization, and SwiftUI editor and viewer views.
 
 The package keeps authored structure and unsupported values visible to the host. It does not require the integrating app to adopt one persistence format or one editor backend.
@@ -50,9 +52,9 @@ dependencies: [
 
 ## Demos
 
-- [Composer](Examples/Composer/README.md)
-- [Interactive reader](Examples/InteractiveReader/README.md)
-- [Migration lab](Examples/MigrationLab/README.md)
+- [Composer](Examples/Composer)
+- [Interactive reader](Examples/InteractiveReader)
+- [Migration lab](Examples/MigrationLab)
 
 ## Requirements
 
